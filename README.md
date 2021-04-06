@@ -1,2 +1,2 @@
 # bangkit2021
-repository untuk capstone projek 
+Repository of Bangkit Capstone Project
