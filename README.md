@@ -1,2 +1,2 @@
-# bangkit2021
+# bangkit 2021
 Repository of Bangkit Capstone Project
